@@ -1,7 +1,7 @@
 # 🚢 Titanic: Machine Learning from Disaster – Kaggle Competition  
-**Author**: *[Shyam]*  
-**Date**: *[03/03/2025]*  
-**GitHub Repository**: *[https://github.com/ShyamSubedi/Titanic-Kaggle*  
+**Author**: Shyam  
+**Date**: 03/03/2025
+**GitHub Repository**: *https://github.com/ShyamSubedi/Titanic-Kaggle*  
 
 ---
 
